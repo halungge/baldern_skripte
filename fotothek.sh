@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 year=2016
 month=02
 day=27
